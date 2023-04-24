@@ -1,4 +1,4 @@
-# qt_ros_demo
+# qt_ros2_demo
 a demo for ros2 and qt5 in ubuntu22.04 ros2 humble
 
 进入ros2_qt_demo 文件夹，创建build文件夹
